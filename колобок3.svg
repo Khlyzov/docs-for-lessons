@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="300px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 300"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:orange;stroke-width:6;stroke-miterlimit:22.9256}
+    .fil6 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fil4 {fill:peru;fill-rule:nonzero}
+    .fil3 {fill:#DC153B;fill-rule:nonzero}
+    .fil0 {fill:orange;fill-rule:nonzero}
+    .fil5 {fill:yellow;fill-rule:nonzero}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M29 260l304 0 14 -36 -304 0 -14 36z"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M352 209l115 0 -1 -16 -115 0 1 16z"/>
+    </clipPath>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2085755870112">
+   <g style="clip-path:url(#id0)">
+    <image x="29" y="224" width="318" height="36" xlink:href="колобок3_Images\колобок3_ImgID1.png"/>
+   </g>
+  </g>
+  <g id="_2085755870640">
+   <g>
+    <path class="fil0" d="M79 139c8,5 16,10 25,14 40,19 79,20 87,3 6,-13 -7,-33 -33,-51 -8,-5 -16,-10 -25,-14 -40,-19 -79,-20 -87,-3 -6,13 7,33 33,51l0 0zm0 0l0 0 0 0z" filter="drop-shadow(5px 30px 5px lightgray)"/>
+   </g>
+   <circle class="fil0" cx="248" cy="127" r="97" filter="drop-shadow(5px 30px 5px lightgray)"/>
+   <polygon class="fil1" points="48,88 76,79 57,116 "/>
+   <path class="fil2 str0" d="M171 65l-1 -26 26 5 -25 21zm88 -34l23 -11 11 25 -34 -14z"/>
+   <circle class="fil1" cx="237" cy="99" r="39"/>
+   <circle class="fil1" cx="293" cy="100" r="38"/>
+   <circle class="fil2" cx="293" cy="100" r="7"/>
+   <circle class="fil2" cx="248" cy="100" r="7"/>
+   <circle class="fil2" cx="270" cy="133" r="14"/>
+   <ellipse class="fil3" cx="240" cy="173" rx="34" ry="17"/>
+  </g>
+  <ellipse class="fil2" cx="408" cy="241" rx="62" ry="17"/>
+  <polygon class="fil2" points="346,241 469,241 465,200 352,200 "/>
+  <ellipse class="fil4" cx="408" cy="200" rx="56" ry="16"/>
+  <g>
+   <g style="clip-path:url(#id1)">
+    <image x="350" y="194" width="116" height="16" xlink:href="колобок3_Images\колобок3_ImgID2.png"/>
+   </g>
+  </g>
+  <g>
+   <circle class="fil1" cx="380" cy="126" r="23" filter="drop-shadow(20px 60px 5px gray)"/>
+   <g id="_2085755850432">
+    <circle class="fil5" cx="408" cy="138" r="56"/>
+    <circle class="fil1" cx="413" cy="126" r="23"/>
+    <circle class="fil1" cx="380" cy="126" r="23"/>
+    <circle class="fil2" cx="377" cy="126" r="6"/>
+    <circle class="fil2" cx="411" cy="126" r="6"/>
+    <ellipse class="fil3" cx="397" cy="166" rx="8" ry="17"/>
+    <ellipse class="fil6" cx="408" cy="171" rx="51" ry="16"/>
+   </g>
+  </g>
+ </g>
+</svg>
